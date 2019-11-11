@@ -11,7 +11,7 @@ Also you can choose how many winnings are required to end the game.
 
 ## Installation
 
-Download this repo to your computer (click green button "Clone or download"). Go to tic_tac_toe directory then entered:
+Download this repo to your computer (click green button "Clone or download"). Go to tic_tac_toe directory then enter:
 
 
 ```bash
